@@ -1,0 +1,4 @@
+.vagrant
+.vscode-upload.json
+venv
+main-key*
